@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = 'SimpleDefaults'
-  spec.version      = '1.0.0'
+  spec.version      = '1.0'
   spec.license      = { :type => 'Apache License 2.0' }
   spec.homepage     = 'https://github.com/anotheren/SimpleDefaults'
   spec.author       = { 'liudong' => 'liudong.edward@gmail.com' }
